@@ -1,3 +1,5 @@
+## Forked for use by the [Consultant Visits](https://github.com/brighthr/ConsultantVisits.Mobile) application.
+
 # advance_pdf_viewer
 
 A flutter plugin for handling PDF files. Works on both Android & iOS. Originally forked from (https://github.com/CrossPT/flutter_plugin_pdf_viewer).
